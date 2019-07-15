@@ -1,0 +1,10 @@
+192.168.3.198
+2000
+../yuliao/english.txt
+../config/ch_yuliaos.txt
+../yuliao/stop_words_eng.txt
+../yuliao/stop_words_zh.txt
+../data/enDict.txt
+../data/chDict.txt
+../data/enIndex.txt
+../data/chIndex.txt
